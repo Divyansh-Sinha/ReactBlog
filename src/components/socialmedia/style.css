@@ -1,0 +1,37 @@
+.socialMedia{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    transition: transform 250ms;
+}
+
+@keyframes rotation{
+    0% {transform: rotate(-359deg);}
+    
+}
+
+.socialMedia a{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 20px;
+    
+    
+}
+
+.socialMedia a:hover{
+    
+    animation-name: rotation;
+  animation-duration: 0.8s;
+}
+
+
+.socialMedia a:visited{
+            color: unset;
+        } 
+
+       .socialMedia a:hover{
+            color: coral;
+                
+            text-decoration: underline;
+        }

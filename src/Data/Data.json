@@ -1,0 +1,53 @@
+{
+    "data":[
+        {
+            "id":1,
+            "blogCategory":"programming",
+            "blogTitle":"React-js",
+            "postedOn":"Dec 26,2020",
+            "author":"Divyansh Sinha",
+            "blogImage":"react.png",
+            "blogText": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changUtsav Sinha"
+        },
+
+        {
+            "id":2,
+            "blogCategory":"programming",
+            "blogTitle":"Unity",
+            "postedOn":"Dec 26,2020",
+            "author":"Divyansh Sinha",
+            "blogImage":"unity.jpg",
+            "blogText":"Unity is a cross-platform game engine developed by Unity Technologies and used to develop video games for PC, consoles, mobile devices and websites."
+        },
+
+        {
+            "id":3,
+            "blogCategory":"programming",
+            "blogTitle":"Java",
+            "postedOn":"Dec 26,2020",
+            "author":"Divyansh Sinha",
+            "blogImage":"java.jpg",
+            "blogText":"Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on."
+        },
+        {
+            "id":4,
+            "blogCategory":"programming",
+            "blogTitle":"Blender",
+            "postedOn":"Dec 26,2020",
+            "author":"Divyansh Sinha",
+            "blogImage":"blender.jpg",
+            "blogText":"Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation."
+        },
+        {
+            "id":5,
+            "blogCategory":"programming",
+            "blogTitle":"HTML,CSS",
+            "postedOn":"Dec 26,2020",
+            "author":"Divyansh Sinha",
+            "blogImage":"html_css.png",
+            "blogText": "HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of the core technologies for building Web pages. HTML provides the structure of the page, CSS the (visual and aural) layout, for a variety of devices."
+        }
+
+
+    ]
+}

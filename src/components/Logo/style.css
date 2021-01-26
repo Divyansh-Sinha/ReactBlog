@@ -1,0 +1,12 @@
+    .logo{
+        text-align: center;
+        
+    }
+
+
+    .logo a{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: none;
+        font-size: 40px;        
+        color: tomato;
+    }
